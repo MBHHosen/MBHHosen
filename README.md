@@ -1,5 +1,5 @@
 ## Hi there 👋
-this is *bold Text*
+this is _bold Text_
 
 <!--
 **MBHHosen/MBHHosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
