@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/MBHHosen/Uses-for-Social-Media/blob/BH_Admin/Git-hub-cover-photo.jpg?raw=true"  />
+  <img height="100%" width="100%" src="https://github.com/MBHHosen/Uses-for-Social-Media/blob/BH_Admin/Git-hub-cover-photo.jpg?raw=true"  />
 </div>
 
 ###
