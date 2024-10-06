@@ -1,21 +1,23 @@
 <div align="center">
-  <img height="100%" width="100%" src="https://github.com/MBHHosen/Uses-for-Social-Media/blob/BH_Admin/Git-hub-cover-photo.jpg?raw=true"  />
+  <img height="100%" width="100%" src="https://github.com/MBHHosen/Uses-for-Social-Media/blob/BH_Admin/Git-hub-cover-photo.jpg?raw=true"  /> <br> <br> <br>
 </div>
+<div align="center" margin-top="30px">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=100&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B;I+am+MD.+Billal+Hosen" alt="Typing SVG" /></a>
 
-###
+<h3 align="center">__Web App Dev__</h3>
 
-<br clear="both">
 
-<h2 align="center">Hey There 👋</h2>
 
-###
 
-<h3 align="center">I Am MD Billal Hosen 😊</h3>
 
-###
 
-<!--
-**MBHHosen/MBHHosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+<!--**MBHHosen/MBHHosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
